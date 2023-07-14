@@ -1,2 +1,7 @@
 pandas 
-numpy 
+numpy  
+scikit-learn
+flask
+
+#to install the test_package inside the current environment 
+-e . 

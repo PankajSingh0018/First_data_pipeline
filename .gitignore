@@ -1,1 +1,4 @@
 virtual
+build
+dist
+main_folder.egg-info
